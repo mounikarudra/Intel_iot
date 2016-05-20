@@ -65,7 +65,7 @@ public class Graph extends Activity {
 
 
 
-                LineDataSet dataset = new LineDataSet(entries, "# of Calls");
+                LineDataSet dataset = new LineDataSet(entries, "");
 
 
                 //ArrayList<String> labels = new ArrayList<String>();
